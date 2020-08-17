@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://iamwhale.github.io/whale_blog/categories/index.html</loc>
-    
-    <lastmod>2020-08-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://iamwhale.github.io/whale_blog/contact/index.html</loc>
     
     <lastmod>2020-08-17</lastmod>
@@ -30,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://iamwhale.github.io/whale_blog/about/index.html</loc>
+    <loc>https://iamwhale.github.io/whale_blog/categories/index.html</loc>
     
     <lastmod>2020-08-17</lastmod>
     
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://iamwhale.github.io/whale_blog/archives/index.html</loc>
+    
+    <lastmod>2020-08-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://iamwhale.github.io/whale_blog/about/index.html</loc>
     
     <lastmod>2020-08-17</lastmod>
     
