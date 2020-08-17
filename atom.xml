@@ -5,9 +5,9 @@
   <subtitle>[object Object]</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://whale_blog.github.io/"/>
+  <link href="https://iamwhale.github.io/whale_blog/"/>
   <updated>2020-08-17T14:10:40.024Z</updated>
-  <id>https://whale_blog.github.io/</id>
+  <id>https://iamwhale.github.io/whale_blog/</id>
   
   <author>
     <name>Whale</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>本博客搭建详细教程</title>
-    <link href="https://whale_blog.github.io/posts/6.html"/>
-    <id>https://whale_blog.github.io/posts/6.html</id>
+    <link href="https://iamwhale.github.io/whale_blog/posts/6.html"/>
+    <id>https://iamwhale.github.io/whale_blog/posts/6.html</id>
     <published>2019-12-27T12:02:34.000Z</published>
     <updated>2020-08-17T14:10:40.024Z</updated>
     
@@ -37,14 +37,14 @@
     </summary>
     
     
-      <category term="Hexo" scheme="https://whale_blog.github.io/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://iamwhale.github.io/whale_blog/categories/Hexo/"/>
     
     
-      <category term="教程" scheme="https://whale_blog.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="https://iamwhale.github.io/whale_blog/tags/%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Hexo" scheme="https://whale_blog.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://iamwhale.github.io/whale_blog/tags/Hexo/"/>
     
-      <category term="GitHub" scheme="https://whale_blog.github.io/tags/GitHub/"/>
+      <category term="GitHub" scheme="https://iamwhale.github.io/whale_blog/tags/GitHub/"/>
     
   </entry>
   
